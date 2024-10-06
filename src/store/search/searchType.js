@@ -1,0 +1,6 @@
+export const LOADING = 'LOADING'
+export const DETAIL_MODAL = 'DETAIL_MODAL'
+export const DETAIL = 'DETAIL'
+export const RESULT = 'RESULT'
+export const MESSAGE = 'MESSAGE'
+export const SEARCH_PARAM = 'SEARCH_PARAM'
